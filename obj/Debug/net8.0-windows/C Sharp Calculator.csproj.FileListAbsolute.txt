@@ -1,0 +1,16 @@
+D:\X\Projects\C#\Calculator\C Sharp Calculator\bin\Debug\net8.0-windows\C Sharp Calculator.exe
+D:\X\Projects\C#\Calculator\C Sharp Calculator\bin\Debug\net8.0-windows\C Sharp Calculator.deps.json
+D:\X\Projects\C#\Calculator\C Sharp Calculator\bin\Debug\net8.0-windows\C Sharp Calculator.runtimeconfig.json
+D:\X\Projects\C#\Calculator\C Sharp Calculator\bin\Debug\net8.0-windows\C Sharp Calculator.dll
+D:\X\Projects\C#\Calculator\C Sharp Calculator\bin\Debug\net8.0-windows\C Sharp Calculator.pdb
+D:\X\Projects\C#\Calculator\C Sharp Calculator\obj\Debug\net8.0-windows\C_Sharp_Calculator.Form1.resources
+D:\X\Projects\C#\Calculator\C Sharp Calculator\obj\Debug\net8.0-windows\C Sharp Calculator.csproj.GenerateResource.cache
+D:\X\Projects\C#\Calculator\C Sharp Calculator\obj\Debug\net8.0-windows\C Sharp Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\X\Projects\C#\Calculator\C Sharp Calculator\obj\Debug\net8.0-windows\C Sharp Calculator.AssemblyInfoInputs.cache
+D:\X\Projects\C#\Calculator\C Sharp Calculator\obj\Debug\net8.0-windows\C Sharp Calculator.AssemblyInfo.cs
+D:\X\Projects\C#\Calculator\C Sharp Calculator\obj\Debug\net8.0-windows\C Sharp Calculator.csproj.CoreCompileInputs.cache
+D:\X\Projects\C#\Calculator\C Sharp Calculator\obj\Debug\net8.0-windows\C Sharp Calculator.dll
+D:\X\Projects\C#\Calculator\C Sharp Calculator\obj\Debug\net8.0-windows\refint\C Sharp Calculator.dll
+D:\X\Projects\C#\Calculator\C Sharp Calculator\obj\Debug\net8.0-windows\C Sharp Calculator.pdb
+D:\X\Projects\C#\Calculator\C Sharp Calculator\obj\Debug\net8.0-windows\C Sharp Calculator.genruntimeconfig.cache
+D:\X\Projects\C#\Calculator\C Sharp Calculator\obj\Debug\net8.0-windows\ref\C Sharp Calculator.dll
